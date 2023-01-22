@@ -17,5 +17,3 @@
 ![](favorite-name/../myphoto.jpg)
 
 Это я в первом классе =)
-
-theme: cayman
